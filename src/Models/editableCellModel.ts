@@ -1,0 +1,1 @@
+export type editableCellModel = 'text-input' | 'select' | 'checkbox';
